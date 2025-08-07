@@ -21,6 +21,7 @@ public class funcxtionInJava {
                 return;
             }
 
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Please enter your name:");
